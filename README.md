@@ -4,6 +4,7 @@ Experiments on the generalizability of the shape bias in novel-noun generalizati
 # Demo
 
 Link to a demo of an experimental trial: 
+
 https://mzettersten.github.io/shape-bias-gen/experiments/demo/index.html
 
 # Stimuli
